@@ -9,5 +9,4 @@ accelerate
 faiss_cpu
 sentence_transformers
 pypdf
- 
-
+pandas
