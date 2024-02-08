@@ -1,6 +1,7 @@
 # Yolov_LLM
-Video Object Detection (Yolov5) and LLM chatbot (LLAMA 7B-Chat)
+Video Object Detection (Yolov5) and Multimodal Vision Language Model (Llava 13b)
 
+## The proposal, Project report and summary is available above, follow to understand the context. 
 
 ![](https://github.com/AGAMPANDEYY/Yolov_LLM/blob/main/Llava_Yolov5.gif)
 
